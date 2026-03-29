@@ -1,0 +1,49 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run web.py",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"web.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run web.py",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"web.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run web.py",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"web.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run web.py",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"web.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
